@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "590800705966",
+    "firebase_url": "https://shoottospace-3a3e0.firebaseio.com",
+    "project_id": "shoottospace-3a3e0",
+    "storage_bucket": "shoottospace-3a3e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590800705966:android:4fe831402cee4410",
+        "android_client_info": {
+          "package_name": "com.akashapps.shoottospace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590800705966-56v9klv1ka8dq0ckcvpapq6og84oqutu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akashapps.shoottospace",
+            "certificate_hash": "fd2e4d061244201b92d520dcb32f89923a563e57"
+          }
+        },
+        {
+          "client_id": "590800705966-uafgpfa4smh5dq2m51llcspoa1q1ddem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeMja5ZYpNjgYhbJ40qVMjIrD-XXG2yOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590800705966-uafgpfa4smh5dq2m51llcspoa1q1ddem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
