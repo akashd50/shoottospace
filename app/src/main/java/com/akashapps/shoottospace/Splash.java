@@ -13,7 +13,8 @@ public class Splash {
         float var = (float)Math.PI/numStreams;
         float s = 0f;
         for(int i=0;i<numStreams;i++){
-            splash[i] = new Projectile(new SimpleVector(0f,0f,2f), 0.002f, s+=var,200, 3f, Color.rgb(0.5f,0.6f,0.1f));
+            splash[i] = new Projectile(new SimpleVector(0f,0f,2f), 0.002f, s+=var,
+                    200, 3f, Color.rgb(0.5f,0.6f,0.1f));
         }
         inProgress = false;
     }
